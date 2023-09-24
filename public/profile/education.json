@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Mar 2011 - Apr 2012",
+            "cardTitle": "12th",
+            "cardSubtitle":"Govt. Higher Secondary School, Paretha",
+            "cardDetailedText": "Percentage - 71.6",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Aug 2015 - Dec 2019",
+            "cardTitle": "B.E, Computer Science",
+            "cardSubtitle":"RGPV, Indore",
+            "cardDetailedText": "CGPA - 6.5"
+        }
+    ]
+}
